@@ -1,0 +1,5 @@
+#inclued<stdio.h>
+void main(void)
+{
+printf("Hello wold!\r\n);
+}
